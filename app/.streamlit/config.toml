@@ -1,0 +1,17 @@
+[app]
+name = "weave"
+
+[theme]
+primaryColor = "#bb5a38"           # Warm, professional accent color
+backgroundColor = "#f4f3ed"        # Soft cream background - easy on the eyes
+secondaryBackgroundColor = "#ecebe3"  # Subtle contrast for cards/sections
+textColor = "#282517ff"             # Dark brown - readable but not harsh black
+linkColor = "#3d3a2a"             # Keep links consistent with text
+borderColor = "#bbbbbbff"           # Gentle borders that define
+showWidgetBorder = true           # Clean widget definition
+baseRadius = "0.4rem"             # Subtle rounded corners - modern feel
+showSidebarBorder = true          # Clean sidebar separation
+
+[theme.sidebar]
+backgroundColor = "#e8e7dd"        
+secondaryBackgroundColor = "#ecebe3"
